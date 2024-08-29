@@ -15,7 +15,7 @@
     "test": "vitest run"
   },
   "dependencies": {
-    "@aws-sdk/client-s3": "3.511.0",
+    "@aws-sdk/client-s3": "3.637.0",
     "@aws-sdk/lib-storage": "3.511.0",
     "@aws-sdk/s3-request-presigner": "3.511.0",
     "@fontsource-variable/inter": "5.0.16",
@@ -58,7 +58,7 @@
     "stylelint-config-standard-vue": "1.0.0",
     "stylelint-scss": "6.2.1",
     "typescript": "5.3.3",
-    "vite": "5.1.1",
+    "vite": "5.4.2",
     "vite-plugin-compression": "0.5.1",
     "vite-plugin-vuetify": "2.0.1",
     "vitest": "1.2.2",
